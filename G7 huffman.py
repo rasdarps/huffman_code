@@ -92,19 +92,7 @@ def huffman_decoding(encoded_text, root):
             decoded_text.append(node.char)
             node = root
     return "".join(decoded_text)
-print('====================================')
-print(' ID      : Name')
-print('====================================')
-print('11005094 : Matthew Yankey')
-print('11005180 : Elorm Vidza')
-print('11005259 : Danny Ofori Saah')
-print('11004990 : Joseph Goldman-Akrofi')
-print('11361290 : Alex K. Ayensu Darpah')
-print('11008296 : Evans Djangbah')
-print('11010381 : Philip Baba')
-print('11009273 : Nyankom Patrick Boafo')
-print('11004756 : Mercy Tettey')
-print('====================================')
+
 # Accept user input
 text = input("Enter a string: ")
 
