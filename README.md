@@ -1,0 +1,2 @@
+# huffman_code
+CSCD 603 ASSIGNMENT ON HUFFMAN CODE
